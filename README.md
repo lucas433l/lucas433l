@@ -1,5 +1,4 @@
-### Yo yo! I'm Lucas :D
-Hi! I'm Lucas :D
+### Hi! I'm Lucas :D
 ##
 ![image](https://i.imgur.com/NVXo7jo.gif)
 
