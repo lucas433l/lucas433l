@@ -25,9 +25,9 @@ Atualmente, estou  cursando **Ciência da Computação na UEM**.
 
 ### 📊 GitHub Stats
 <div align="center">
-  <a href="https://github.com/lucas4331">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucas4331&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas4331&layout=compact&theme=dracula"/>
+  <a href="https://github.com/lucas433l">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucas433l&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas433l&layout=compact&theme=dracula"/>
   </a>
 </div>
 
