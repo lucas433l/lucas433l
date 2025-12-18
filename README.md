@@ -15,10 +15,8 @@ Embora este GitHub seja novo, tenho mais de 5 anos de experiência transformando
 Se quiser saber como faço isso ou trocar uma ideia, me chame no [LinkedIn](https://www.linkedin.com/in/lucas433l).
 
 **Curiosidades:**
-
-* 🏆 Fundei o **Clube de Programação Competitiva da UEM** (quero participar mais vezes da Maratona de Programação).
 * ⚡ Sou voluntário ativo no **IEEE** e na Computer Society.
-* 🌱 Estou sempre estudando: o foco agora são Algoritmos Avançados.
+* 🌱 Estou estudando com foco em programação competitiva.
 * 🥊 No tempo livre jogo MTG e tento lutar boxe.
 * 🚀 **Meta:** Criar projetos que impactem a sociedade.
 
